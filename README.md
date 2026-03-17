@@ -5,7 +5,6 @@
 <!-- Optional badges (may not render in some regions/networks) -->
 [![Paper](https://img.shields.io/badge/Paper-BSPC%202026-blue)](https://www.sciencedirect.com/science/article/pii/S1746809426005197)
 [![Dataset](https://img.shields.io/badge/Dataset-Open%20Access%20EEG%2BfNIRS-green)](http://doc.ml.tu-berlin.de/hBCI)
-
 English | 中文
 
 ---
