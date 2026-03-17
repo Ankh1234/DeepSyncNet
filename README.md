@@ -347,7 +347,7 @@ If this repository is useful for your research, please cite:
   volume  = {113},
   pages   = {109100},
   year    = {2026},
-  doi     = {10.1016/j.bspc.2026.109100},
-  url     = {https://www.sciencedirect.com/science/article/pii/S1746809426005197}
+  doi = {10.1016/j.bspc.2025.109100},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118},
 }
 ```
