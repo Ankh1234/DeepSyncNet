@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following paper."
+title: "DeepSyncNet"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Hao"
+repository-code: "https://github.com/Ankh1234/DeepSyncNet"
+url: "https://github.com/Ankh1234/DeepSyncNet"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Li"
+      given-names: "Hao"
+  title: "DeepSyncNet: Deep synchronized fusion network for EEG-fNIRS multimodal brain-computer interfaces"
+  journal: "Biomedical Signal Processing and Control"
+  year: 2025
+  volume: 109
+  pages: 109100
+  doi: 10.1016/j.bspc.2025.109100
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118"
+
