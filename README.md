@@ -3,7 +3,7 @@
 [[Paper (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118) | [Dataset (Open Access EEG+fNIRS)](http://doc.ml.tu-berlin.de/hBCI)
 
 <!-- Optional badges (may not render in some regions/networks) -->
-[![Paper](https://img.shields.io/badge/Paper-BSPC%202026-blue)](https://www.sciencedirect.com/science/article/pii/S1746809426005197)
+[![Paper](https://img.shields.io/badge/Paper-BSPC%202026-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118)
 [![Dataset](https://img.shields.io/badge/Dataset-Open%20Access%20EEG%2BfNIRS-green)](http://doc.ml.tu-berlin.de/hBCI)
 English | 中文
 
@@ -348,6 +348,6 @@ If this repository is useful for your research, please cite:
   pages   = {109100},
   year    = {2026},
   doi = {10.1016/j.bspc.2025.109100},
-  url = {https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118}
 }
 ```
