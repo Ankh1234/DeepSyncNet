@@ -1,13 +1,23 @@
-# DeepSyncNet: Deep Synchronized Fusion Network for EEG-fNIRS Multimodal BCI
+<h1 align="center">DeepSyncNet: Deep Synchronized Fusion Network for EEG-fNIRS Multimodal BCI</h1>
 
-[[Paper (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118) | [Dataset (Open Access EEG+fNIRS)](http://doc.ml.tu-berlin.de/hBCI)
+<p align="center">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118">Paper (ScienceDirect)</a> |
+  <a href="http://doc.ml.tu-berlin.de/hBCI">Dataset (Open Access EEG+fNIRS)</a>
+</p>
 
-<!-- Optional badges (may not render in some regions/networks) -->
-[![Paper](https://img.shields.io/badge/Paper-BSPC%202026-blue)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118)
-[![Dataset](https://img.shields.io/badge/Dataset-Open%20Access%20EEG%2BfNIRS-green)](http://doc.ml.tu-berlin.de/hBCI)
-English | 中文
+<p align="center">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118">
+    <img src="https://img.shields.io/badge/Paper-BSPC%202025-blue" alt="Paper Badge" />
+  </a>
+  <a href="http://doc.ml.tu-berlin.de/hBCI">
+    <img src="https://img.shields.io/badge/Dataset-Open%20Access%20EEG%2BfNIRS-green" alt="Dataset Badge" />
+  </a>
+</p>
+
+<p align="center">English | 中文</p>
 
 ---
+
 
 
 ## 1. Overview | 项目简介
