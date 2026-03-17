@@ -340,15 +340,14 @@ y_final = alpha * y_fused + (1 - alpha) * y_eeg
 If this repository is useful for your research, please cite:
 
 ```bibtex
-@article{LI2026109100,
-  title = {DeepSyncNet: Deep synchronized fusion network for EEG-fNIRS multimodal brain-computer interfaces},
+@article{Li2026DeepSyncNet,
+  author  = {Hao Li},
+  title   = {DeepSyncNet: Deep synchronized fusion network for EEG-fNIRS multimodal brain-computer interfaces},
   journal = {Biomedical Signal Processing and Control},
-  volume = {113},
-  pages = {109100},
-  year = {2026},
-  issn = {1746-8094},
-  doi = {https://doi.org/10.1016/j.bspc.2026.109100},
-  url = {https://www.sciencedirect.com/science/article/pii/S1746809426005197},
-  author = {Hao Li}
+  volume  = {113},
+  pages   = {109100},
+  year    = {2026},
+  doi     = {10.1016/j.bspc.2026.109100},
+  url     = {https://www.sciencedirect.com/science/article/pii/S1746809426005197}
 }
 ```
