@@ -121,7 +121,7 @@ pip install cuml
 
 ---
 
-## 6. Path Configuration (Important) | 路径配置（重要）
+## 6. Path Configuration | 路径配置
 
 Current scripts contain hard-coded absolute paths (e.g. `/root/autodl-tmp/project/...`).
 
@@ -349,15 +349,3 @@ If this repository is useful for your research, please cite:
   author = {Hao Li}
 }
 ```
-
----
-
-## 12. Notes | 备注
-
-- This README focuses on reproducibility and full pipeline execution.
-- Visualization scripts are intentionally not emphasized here.
-- Some scripts default to MI or MA paths; for strict reproduction of both tasks, update task/session/path settings consistently.
-
-本 README 重点是可复现与全流程执行。
-可视化脚本未作为重点。
-部分脚本默认任务（MI/MA）不同；如需完整复现两个任务，请统一修改相应任务路径与会话设置。
