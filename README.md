@@ -1,6 +1,6 @@
 # DeepSyncNet: Deep Synchronized Fusion Network for EEG-fNIRS Multimodal BCI
 
-[Paper (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118) | [Dataset (Open Access EEG+fNIRS)](http://doc.ml.tu-berlin.de/hBCI)
+[[Paper (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425016118) | [Dataset (Open Access EEG+fNIRS)](http://doc.ml.tu-berlin.de/hBCI)
 
 <!-- Optional badges (may not render in some regions/networks) -->
 [![Paper](https://img.shields.io/badge/Paper-BSPC%202026-blue)](https://www.sciencedirect.com/science/article/pii/S1746809426005197)
